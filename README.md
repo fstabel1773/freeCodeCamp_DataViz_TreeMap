@@ -4,8 +4,7 @@ d3 treemap diagram visualization -- solo project from freeCodeCamp data visualiz
 This repo contains the last data-visualization from fCC data-visualization-course.
 It is a treemap diagram built on my own from scratch using d3 according to user stories (see below). 
 
-Live demo available: .
-
+Live demo available: https://spontaneous-brioche-eca0ad.netlify.app/.
 
 Note: There is a testscript from freeCodeCamp included confirming fullfilling of user stories.
 
